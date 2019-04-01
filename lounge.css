@@ -1,4 +1,22 @@
+.guarantee {
+  line-height:1.9em;
+  font-style:italic;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color:#e6d713;
+  border-color:rgb(34, 12, 230);
+  border-width:10px;
+  border-style:solid;
+  background-color:#eb1c0d;
+  padding:25px;
+  padding-left: 80px;
+  margin:30px;
+  margin-right: 300px;
+  background-image:url(images/background.gif);
+  background-repeat:no-repeat;
+  background-position: top left;
+}
 #elixirs
+
 {
   border-width: thin;
   border-style:solid;
@@ -14,4 +32,57 @@
   background-image:url(images/cocktail.gif);
   background-repeat:repeat-x;
   
+
+  line-height:1 em;
+
+  padding: 0px 20px 30px 10px;
+  margin: 0px 20px 30px 10px;
+  padding: 20px;
+
+  <div>
+  font: xize 50%;
+  text-align:center;
+  line-height:normal;
+  margin-top:30px;
+
+  
+
+  float:right;
+
+  </div>
+
+
+
+}
+#elixirs
+
+h2
+{
+  color:black;
+
+}
+
+#elixirs
+
+h3
+{
+  color:rgb(245, 18, 18);
+
+}
+#elixirs
+h4
+{
+  font: xize 50%;
+  text-align:center;
+  line-height:normal;
+  margin-top:30px;
+  
+}
+
+.cd {
+  font-style: italic;
+}
+
+.artist {
+  font-weight :bold;
 }
